@@ -166,8 +166,8 @@ Released May 6, 2015
 
 - `New` Redesigned interface, icons and symbols
 - `New` Rewritten Front-End
-- `New` Dialog system now based on [basicModal](https://github.com/electerious/basicModal)
-- `New` Context-menus now based on [basicContext](https://github.com/electerious/basicContext)
+- `New` Dialog system now based on [basicModal](https://github.com/prorigo/basicModal)
+- `New` Context-menus now based on [basicContext](https://github.com/prorigo/basicContext)
 - `New` Edit the sharing options of a public album
 - `New` Quickly switch between albums and photos by clicking the title in the header
 - `New` Renamed API functions
@@ -220,7 +220,7 @@ Released December 6, 2014
 - `Improved` CSS has been rewritten partly
 - `Improved` Front-end has been rewritten partly #245
 - `Improved` Folder- and code-structure has been updated
-- `Improved` Context-menu now based on [basicContext](https://github.com/electerious/basicContext) #245
+- `Improved` Context-menu now based on [basicContext](https://github.com/prorigo/basicContext) #245
 - `Fixed` OpenGraph image too big for some sites #69
 - `Fixed` Wrong sizes after EXIF rotation
 - `Fixed` Returning to 'Albums' after searching failed

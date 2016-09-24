@@ -2,12 +2,12 @@
   "name": "ProrigoGallery",
   "version": "3.1.4",
   "description": "Self-hosted photo-management done right.",
-  "authors": "Tobias Reich <tobias@electerious.com>",
+  "authors": "Tobias Reich <tobias@prorigo.com>",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/electerious/ProrigoGallery.git"
+    "url": "https://github.com/prorigo/ProrigoGallery.git"
   },
   "scripts": {
     "start": "gulp watch",

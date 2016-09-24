@@ -46,16 +46,16 @@ No. ProrigoGallery has it's own folder-structure and database. Please upload or 
 No. Video support is not planned.
 
 #### Is it possible to create multiple users?
-[No, not yet.](https://github.com/electerious/ProrigoGallery/issues/132)
+[No, not yet.](https://github.com/prorigo/ProrigoGallery/issues/132)
 
 #### Does ProrigoGallery use ImageMagick?
 Yes. ProrigoGallery uses ImageMagick when available.
 
 #### Blank screen when viewing a photo using iOS
-There's a problem with images compressed by ImageOptim. [Read more.](https://github.com/electerious/ProrigoGallery/issues/175#issuecomment-47403992)
+There's a problem with images compressed by ImageOptim. [Read more.](https://github.com/prorigo/ProrigoGallery/issues/175#issuecomment-47403992)
 
 #### How to change the title of the site?
-[#455](https://github.com/electerious/ProrigoGallery/issues/455)
+[#455](https://github.com/prorigo/ProrigoGallery/issues/455)
 
 #### How to reset username and password?
 Simply delete the whole `ProrigoGallery_settings` table from the database. ProrigoGallery will regenerate it and ask you to enter a new username and password.

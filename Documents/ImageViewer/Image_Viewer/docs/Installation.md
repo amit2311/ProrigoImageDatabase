@@ -13,15 +13,15 @@ To use ProrigoGallery without restrictions, we recommend to increase the values 
 	upload_max_filesize = 20M
 	memory_limit = 256M
 	
-You might also take a look at [Issue #106](https://github.com/electerious/ProrigoGallery/issues/106) if you are using nginx or in the [FAQ](https://github.com/electerious/ProrigoGallery/blob/master/docs/FAQ.md#i-cant-upload-multiple-photos-at-once) if you are using CGI or FastCGI.
+You might also take a look at [Issue #106](https://github.com/prorigo/ProrigoGallery/issues/106) if you are using nginx or in the [FAQ](https://github.com/prorigo/ProrigoGallery/blob/master/docs/FAQ.md#i-cant-upload-multiple-photos-at-once) if you are using CGI or FastCGI.
 	
 ### 2. Download
 
 The easiest way to download ProrigoGallery is with `git`:
 
-	git clone https://github.com/electerious/ProrigoGallery.git
+	git clone https://github.com/prorigo/ProrigoGallery.git
 	
-You can also use the [direct download](https://github.com/electerious/ProrigoGallery/archive/master.zip).
+You can also use the [direct download](https://github.com/prorigo/ProrigoGallery/archive/master.zip).
 
 ### 3. Permissions
 

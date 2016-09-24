@@ -4,8 +4,8 @@ Read the following before reporting a bug on GitHub:
 
 1. Update ProrigoGallery to the newest version
 2. Update your browser to the newest version
-2. Take a look in the [FAQ](https://github.com/electerious/ProrigoGallery/blob/master/docs/FAQ.md)
-3. Check if someone has [already reported](https://github.com/electerious/ProrigoGallery/issues) the same bug
+2. Take a look in the [FAQ](https://github.com/prorigo/ProrigoGallery/blob/master/docs/FAQ.md)
+3. Check if someone has [already reported](https://github.com/prorigo/ProrigoGallery/issues) the same bug
 
 When reporting a bug on GitHub, make sure you include the following information:
 

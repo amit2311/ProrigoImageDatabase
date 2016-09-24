@@ -12,7 +12,7 @@ function getExtension($filename, $isURI = false) {
 	$extension = pathinfo($filename, PATHINFO_EXTENSION);
 
 	// Special cases
-	// https://github.com/electerious/ProrigoGallery/issues/482
+	// https://github.com/prorigo/ProrigoGallery/issues/482
 	list($extension) = explode(':', $extension, 2);
 
 	if (empty($extension)===false) $extension = '.' . $extension;

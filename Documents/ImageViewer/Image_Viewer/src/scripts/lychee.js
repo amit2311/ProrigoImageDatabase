@@ -9,9 +9,9 @@ ProrigoGallery = {
 	version         : '3.1.4',
 	versionCode     : '030104',
 
-	updatePath      : '//update.electerious.com/index.json',
-	updateURL       : 'https://github.com/electerious/ProrigoGallery',
-	website         : 'http://ProrigoGallery.electerious.com',
+	updatePath      : '//update.prorigo.com/index.json',
+	updateURL       : 'https://github.com/prorigo/ProrigoGallery',
+	website         : 'http://ProrigoGallery.prorigo.com',
 
 	publicMode      : false,
 	viewMode        : false,

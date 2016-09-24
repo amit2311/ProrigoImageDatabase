@@ -2,10 +2,10 @@
 
 #### A great looking and easy-to-use photo-management-system.
 
-![ProrigoGallery](http://l.electerious.com/uploads/big/c4b58cb87d95aeaed78fdca581cc908c.jpg)
-![ProrigoGallery](http://l.electerious.com/uploads/big/075ac5de5b5d6c593acbb700f0e1d739.jpg)
+![ProrigoGallery](http://l.prorigo.com/uploads/big/c4b58cb87d95aeaed78fdca581cc908c.jpg)
+![ProrigoGallery](http://l.prorigo.com/uploads/big/075ac5de5b5d6c593acbb700f0e1d739.jpg)
 
-ProrigoGallery is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. ProrigoGallery comes with everything you need and all your photos are stored securely. Try the [Live Demo](http://ld.electerious.com) or read more on our [Website](http://ProrigoGallery.electerious.com).
+ProrigoGallery is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. ProrigoGallery comes with everything you need and all your photos are stored securely. Try the [Live Demo](http://ld.prorigo.com) or read more on our [Website](http://ProrigoGallery.prorigo.com).
 
 ## Installation
 
@@ -37,7 +37,7 @@ In order to use the Dropbox import from your server, you need a valid drop-ins a
 
 ### Twitter Cards
 
-ProrigoGallery supports [Twitter Cards](https://dev.twitter.com/docs/cards) and [Open Graph](http://opengraphprotocol.org) for shared images ([not albums](https://github.com/electerious/ProrigoGallery/issues/384)). In order to use Twitter Cards you need to request an approval for your domain. Simply share an image with ProrigoGallery, copy its link and paste it in [Twitters Card Validator](https://dev.twitter.com/docs/cards/validation/validator).
+ProrigoGallery supports [Twitter Cards](https://dev.twitter.com/docs/cards) and [Open Graph](http://opengraphprotocol.org) for shared images ([not albums](https://github.com/prorigo/ProrigoGallery/issues/384)). In order to use Twitter Cards you need to request an approval for your domain. Simply share an image with ProrigoGallery, copy its link and paste it in [Twitters Card Validator](https://dev.twitter.com/docs/cards/validation/validator).
 
 ### Imagick
 
@@ -60,8 +60,8 @@ Here's a list of all available Plugins and Extensions:
 | ProrigoGallerysync | Sync ProrigoGallery with any directory containing photos | [More &#187;](https://github.com/GustavePate/ProrigoGallerysync) |
 | ProrigoGalleryupload | Upload photos to ProrigoGallery via SSH | [More &#187;](https://github.com/r0x0r/ProrigoGalleryupload) |
 | Jekyll | Liquid tag for Jekyll sites that allows embedding ProrigoGallery albums | [More &#187;](https://gist.github.com/tobru/9171700) |
-| ProrigoGallery-redirect | Redirect from an album-name to a ProrigoGallery-album | [More &#187;](https://github.com/electerious/ProrigoGallery-redirect) |
-| ProrigoGallery-watermark | Adds a second watermarked photo when uploading images | [More &#187;](https://github.com/electerious/ProrigoGallery-watermark) |
+| ProrigoGallery-redirect | Redirect from an album-name to a ProrigoGallery-album | [More &#187;](https://github.com/prorigo/ProrigoGallery-redirect) |
+| ProrigoGallery-watermark | Adds a second watermarked photo when uploading images | [More &#187;](https://github.com/prorigo/ProrigoGallery-watermark) |
 | ProrigoGallery-rss | Creates a RSS-Feed out of your photos | [More &#187;](https://github.com/cternes/ProrigoGallery-RSS) |
 | ProrigoGallery-FlashAir | Import from a Toshiba FlashAir WiFi SD card | [More &#187;](https://github.com/mhp/ProrigoGallery-FlashAir) |
 | ProrigoGallery-webroot | Controls photos accessibility and keeps ProrigoGallery files hidden | [More &#187;](https://github.com/Bramas/ProrigoGallery-webroot) |
@@ -73,4 +73,4 @@ Take a look at the [FAQ](docs/FAQ.md) if you have problems. Discovered a bug? Pl
 
 ## Donate
 
-I am working hard on continuously developing and maintaining ProrigoGallery. Please consider making a donation via [Flattr](https://flattr.com/submit/auto?user_id=electerious&url=http%3A%2F%2FProrigoGallery.electerious.com&title=ProrigoGallery&category=software) or PayPal (from [our site](http://ProrigoGallery.electerious.com/)) to keep the project going strong and me motivated.
+I am working hard on continuously developing and maintaining ProrigoGallery. Please consider making a donation via [Flattr](https://flattr.com/submit/auto?user_id=prorigo&url=http%3A%2F%2FProrigoGallery.prorigo.com&title=ProrigoGallery&category=software) or PayPal (from [our site](http://ProrigoGallery.prorigo.com/)) to keep the project going strong and me motivated.
